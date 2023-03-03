@@ -1,0 +1,15 @@
+.navegacao{
+    color: rgb(95, 97, 95);
+    font-weight: lighter;
+    font-size: large;
+    font-family:sans-serif;
+    word-spacing: 40px;
+    margin-left: 40%;
+    display: inline-block;
+    vertical-align: 30%;
+    margin-top: 35px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
